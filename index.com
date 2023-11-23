@@ -21,7 +21,8 @@ img src="C:\Users\Alumno-20\Documents\eee messi AEDM\imagen\am.jpg"
 
 <!-- link a pagina externa relacionada a su pagina -->
 <center>
-<font size="yellow">
+<font size=6 color="white">
+<a href="pagina2.html">Pagina2</a>
 <p>QUIERES SABER MAS ENTRA AQUI:  <a 
 href="https://youtu.be/2PLuL6Y8z38?si=mDMv9r8K0sh5fNYn">HISTORIA DE AMLO</a>.</p>
 </font>
@@ -35,6 +36,7 @@ type="audio/mp3">
        Tu navegador no soporta audio HTML5
 </audio>
 </center>
+
 <div style="text-align:center;padding:1em 0;"> <h2><a style="text-decoration:none;" href="https://www.zeitverschiebung.net/es/city/3983058"><span style="color:gray;">Hora actual en</span><br />Silao, México</a></h2> <iframe src="https://www.zeitverschiebung.net/clock-widget-iframe-v2?language=es&size=large&timezone=America%2FMexico_City" width="100%" height="140" frameborder="0" seamless></iframe> </div>
 
 </body>
